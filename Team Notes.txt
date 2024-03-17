@@ -1,0 +1,1 @@
+1-icon images must all have the same dimentions
